@@ -34,6 +34,7 @@
 ---
 
 ### 🚀 Key Projects:
+- **Classmanager**: A Django-based application for managing educational environments, allowing teachers to handle student profiles, assignments, and grades. It features user authentication, profile updates, assignment submissions, and a messaging system, streamlining classroom management and communication.
 - **Community Skill Swap Platform**: A Django-based platform where users exchange skills, incorporating a matching algorithm, user profiles, and a reputation system to build trust and engagement.
 - **Thought Sharing Platform**: Developed a user-centric platform with like/unlike features, email verification, and advanced user management for enhanced user experience.
 
