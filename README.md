@@ -42,7 +42,7 @@
 
 ### 🎓 Education:
 **Bachelor of Information Technology**, Government College University Faisalabad  
-*Expected Graduation: 2025*
+*Graduated: 2025*
 
 ---
 
