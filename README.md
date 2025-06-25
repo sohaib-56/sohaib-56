@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Muhammad Sohaib
-### Software Engineer | Django Developer | IT Student | BSIT'25
+### Software Engineer | Django Developer | IT Graduate | BSIT'25
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Muhammad%20Sohaib-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-sohaib38)](https://www.linkedin.com/in/m-sohaib38) 
 [![GitHub Badge](https://img.shields.io/badge/-sohaib--56-black?style=flat&logo=github&logoColor=white&link=https://github.com/sohaib-56)](https://github.com/sohaib-56)
